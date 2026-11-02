@@ -13,3 +13,10 @@ h1 {
 h2 {
   color: #2009a3;
 }
+.box {
+  /* background-color: #f2f2f2; */
+  padding: 24px;
+  margin: 32px 0;
+  border: 4px solid darkgreen;
+  /* border-radius: 8px; */
+}
