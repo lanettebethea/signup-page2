@@ -19,7 +19,7 @@ h2 {
 .box {
   padding: 60px;
   margin: 40px 0;
-  border: 3px dashed darkgreen;
+  border: 3px dashed rgb(21, 199, 21);
   background-color: #eeec83;
 }
 
@@ -40,4 +40,14 @@ button {
   margin-top: 16px;
   padding: 10px 20px;
   font: inherit;
+}
+input:focus,
+select:focus,
+textarea:focus {
+  outline: 3px solid rgb(21, 199, 21);
+  outline-offset: 2px;
+}
+
+input:user-invalid {
+  border: 2px solid crimson;
 }
