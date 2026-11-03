@@ -1,7 +1,7 @@
 # signup-page2
-# Callie's Book Club - information and signup
+# Callie's Cat Club - information and signup
 
-A club for the community and book aficionados
+A club for the community of cat aficionados
 
 
 [See it live](https://lanettebethea.github.io/signup-page2/)
