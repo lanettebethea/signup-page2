@@ -12,6 +12,7 @@ body {
 }
 h1 {
   color: #086d29;
+  text-align: center;
 }
 h2 {
   color: #2009a3;
@@ -61,4 +62,20 @@ input:user-invalid {
   flex: 1 1 200px;
   border: 2px solid rgb(21, 199, 21);
   padding: 16px;
+}
+.hero {
+  background-color: rgba(0, 100, 0, 0.85);
+  color: white;
+  padding: 64px 24px;
+  text-align: center;
+}
+
+.cta {
+  display: inline-block;
+  background-color: gold;
+  color: black;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
 }
