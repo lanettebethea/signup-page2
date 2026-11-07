@@ -98,3 +98,6 @@ body.dark {
 body.dark nav a {
   color: lightblue;
 }
+.compare * {
+  outline: 2px dashed tomato;
+}
