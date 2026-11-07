@@ -99,5 +99,5 @@ body.dark nav a {
   color: lightblue;
 }
 .compare * {
-  outline: 2px dashed tomato;
+  outline: 2px dashed rgb(240, 240, 44);
 }
